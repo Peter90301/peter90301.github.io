@@ -24,7 +24,7 @@ I am a Ph.D. student in Computer Architecture at the University of California, S
   <a class="btn btn--primary" href="/files/Tsung-Han_Lu_CV.pdf" download>Download CV</a>
 </p>
 
-## Research Interests
+<h2 id="research-interests">Research Interests</h2>
 
 My research sits at the intersection of computer architecture, hardware acceleration, and emerging computational workloads:
 
@@ -52,10 +52,6 @@ I'm particularly interested in developing hardware accelerators that leverage em
       <div style="font-size: 0.96rem; color: #6b7280; margin-bottom: 14px;">
         Mar. 2025-Jun. 2025
       </div>
-      <ul style="margin: 0;">
-        <li>Improved energy efficiency significantly, demonstrating over 40x less power consumption compared to a standard Ripple-Carry Adder.</li>
-        <li>Optimized design through custom, transistor-level full adder cell creation, resulting in the class's lowest energy-per-operation of 2.805 fJ.</li>
-      </ul>
     </div>
   </div>
 
@@ -68,13 +64,8 @@ I'm particularly interested in developing hardware accelerators that leverage em
         PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM
       </div>
       <div style="font-size: 0.96rem; color: #6b7280; margin-bottom: 14px;">
-        May. 2026 - Accepted by GLSVLSI'26
+        2025 - Accepted by GLSVLSI'26
       </div>
-      <ul style="margin: 0;">
-        <li>Designed PIM-FW, a DRAM-based Processing-in-Memory framework for accelerating All-Pairs Shortest Paths using blocked Floyd-Warshall on HBM3.</li>
-        <li>Proposed a hybrid PIM/PNM architecture with in-bank Bank PEs for massively parallel min-plus updates and channel-level PEs for reduction and synchronization.</li>
-        <li>Achieved 18.7x speedup over an NVIDIA A100 baseline and up to 3200x lower modeled PIM-stack energy under the paper's stated assumptions.</li>
-      </ul>
     </div>
   </div>
 
@@ -89,16 +80,11 @@ I'm particularly interested in developing hardware accelerators that leverage em
       <div style="font-size: 0.96rem; color: #6b7280; margin-bottom: 14px;">
         2025 - IEEE TCAD'26 submitted
       </div>
-      <ul style="margin: 0;">
-        <li>Designed GenDRAM, a monolithic 3D DRAM-based near-memory architecture for accelerating dynamic programming workloads across graph analytics and genomics.</li>
-        <li>Proposed a unified heterogeneous PNM pipeline with Search PUs for memory-intensive seeding and Compute PUs for APSP and sequence alignment.</li>
-        <li>Achieved over 68x speedup on APSP and over 22x speedup on end-to-end genomics pipelines compared to GPU systems.</li>
-      </ul>
     </div>
   </div>
 </div>
 
-## Background
+<h2 id="background">Background</h2>
 
 <div style="display: flex; flex-direction: column; gap: 18px; margin: 1rem 0 1.5rem;">
   <div style="display: flex; gap: 16px; align-items: flex-start;">
@@ -215,7 +201,7 @@ I'm particularly interested in developing hardware accelerators that leverage em
   {% endfor %}
 {% endif %}
 
-## Collaborations
+<h2 id="collaborations">Collaborations</h2>
 
 I actively collaborate with:
 - [Professor Rob Knight's group at UCSD](https://knightlab.ucsd.edu/) - Bioinformatics and microbiome research
