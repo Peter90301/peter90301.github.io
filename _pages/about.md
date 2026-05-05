@@ -34,15 +34,12 @@ I'm particularly interested in developing hardware accelerators that leverage em
 
 ## Background
 
-I bring a diverse and interdisciplinary background spanning mechanical engineering, health sciences, and computer science:
-
 <div style="display: flex; flex-direction: column; gap: 18px; margin: 1rem 0 1.5rem;">
   <div style="display: flex; gap: 16px; align-items: flex-start;">
     <img src="/images/logos/UCSD.png" alt="UC San Diego logo" style="width: 72px; max-height: 72px; object-fit: contain; flex: 0 0 72px; margin-top: 4px;">
     <div>
       <strong>University of California, San Diego</strong> <span style="color: #6f777d;">2024-2029</span><br>
       Ph.D. in Computer Architecture<br>
-      <span style="color: #5f666b;">Transitioning from semiconductor process engineering to computer architecture and hardware acceleration.</span>
     </div>
   </div>
   <div style="display: flex; gap: 16px; align-items: flex-start;">
@@ -50,15 +47,13 @@ I bring a diverse and interdisciplinary background spanning mechanical engineeri
     <div>
       <strong>National Tsing Hua University</strong> <span style="color: #6f777d;">2019-2021</span><br>
       M.S. in Power Mechanical Engineering, GPA: 3.9/4.0<br>
-      <span style="color: #5f666b;">Specialized in microfluidics and bio-MEMS with a focus on biomedical device design.</span>
     </div>
   </div>
   <div style="display: flex; gap: 16px; align-items: flex-start;">
     <img src="/images/logos/tmu-logo.svg" alt="Taipei Medical University logo" style="width: 72px; max-height: 72px; object-fit: contain; flex: 0 0 72px; margin-top: 4px;">
     <div>
       <strong>Taipei Medical University</strong> <span style="color: #6f777d;">2015-2019</span><br>
-      B.S. in Health-Related Field<br>
-      <span style="color: #5f666b;">Foundation in medical sciences and healthcare informatics.</span>
+      B.S. in Oral Hygiene<br>
     </div>
   </div>
 </div>
@@ -96,9 +91,6 @@ I bring a diverse and interdisciplinary background spanning mechanical engineeri
   </div>
 </div>
 
-This unique trajectory—from healthcare through mechanical engineering and semiconductor process development to computer architecture—has deeply informed my research perspective. I understand both the biological and engineering challenges in building efficient systems for data-intensive applications, positioning me uniquely to bridge these domains.
-
-
 
 ## Presentation
 
@@ -124,7 +116,7 @@ This unique trajectory—from healthcare through mechanical engineering and semi
     <img src="/images/photos/cimm-poster-2026.jpg" alt="CIMM conference poster presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
   </figure>
   <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
-    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">Invited Conference Talk</div>
+    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">CIMM Conference Talk</div>
     <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">Conference Presentation · 2025</div>
     <img src="/images/photos/conference-talk-2025.jpg" alt="Conference presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
   </figure>
