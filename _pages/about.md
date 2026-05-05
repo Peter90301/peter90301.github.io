@@ -2,12 +2,13 @@
 permalink: /
 title: "Tsung-Han Lu "
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-## What's New 🔥
+<h2 id="whats-new">What's New 🔥</h2>
+
 - **2025/08**: Passed the preliminary exam.
 - **2025/09**: Gave a speech as a J. Yang Scholar.
 - **2025/12**: PRISM conference presentation.
@@ -15,9 +16,13 @@ redirect_from:
 - **Current**: Exploring hardware acceleration for computational biology, machine learning systems, and processing-in-memory architectures.
 - **Recent**: PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM accepted by GLSVLSI'26.
 
-## About Me
+<h2 id="about-me">About Me</h2>
 
-I am a Ph.D. student in Computer Architecture at the University of California, San Diego (UCSD),advised by [Professor Tajana S. Rosing](https://cseweb.ucsd.edu/~trosing/) in [SeeLab](https://seelab.ucsd.edu/). My research focuses on hardware acceleration for computational biology and machine learning systems, with particular emphasis on processing-in-memory architectures and emerging memory technologies.
+I am a Ph.D. student in Computer Architecture at the University of California, San Diego (UCSD), advised by [Professor Tajana S. Rosing](https://cseweb.ucsd.edu/~trosing/) in [SeeLab](https://seelab.ucsd.edu/). My research focuses on hardware acceleration for computational biology and machine learning systems, with particular emphasis on processing-in-memory architectures and emerging memory technologies.
+
+<p>
+  <a class="btn btn--primary" href="/files/Tsung-Han_Lu_CV.pdf" download>Download CV</a>
+</p>
 
 ## Research Interests
 
@@ -31,6 +36,67 @@ My research sits at the intersection of computer architecture, hardware accelera
 
 ### Current Focus
 I'm particularly interested in developing hardware accelerators that leverage emerging memory technologies to accelerate bioinformatics applications. This involves understanding the unique computational patterns of genomic and proteomic analysis and co-designing hardware and algorithms to achieve superior performance and energy efficiency.
+
+<h2 id="highlighted-projects">Highlighted Projects</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 20px; align-items: start; margin-bottom: 28px;">
+  <div style="border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; overflow: hidden;">
+    <div style="padding: 18px 18px 0;">
+      <img src="/images/projects/digital-vlsi-adder-rtl-to-gdsii.png" alt="Digital VLSI adder RTL-to-GDSII layout" style="width: 100%; height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #d1d5db; background: #fafafa; margin-bottom: 14px;">
+      <img src="/images/projects/Arc_for_DIC.png" alt="Architecture for DIC project" style="width: 100%; height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #d1d5db; background: #fafafa; margin-bottom: 6px;">
+    </div>
+    <div style="padding: 18px;">
+      <div style="font-size: 1.35rem; font-weight: 700; line-height: 1.35; margin-bottom: 8px;">
+        Digital VLSI Implementation of an Adder (RTL-to-GDSII)
+      </div>
+      <div style="font-size: 0.96rem; color: #6b7280; margin-bottom: 14px;">
+        Mar. 2025-Jun. 2025
+      </div>
+      <ul style="margin: 0;">
+        <li>Improved energy efficiency significantly, demonstrating over 40x less power consumption compared to a standard Ripple-Carry Adder.</li>
+        <li>Optimized design through custom, transistor-level full adder cell creation, resulting in the class's lowest energy-per-operation of 2.805 fJ.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; overflow: hidden;">
+    <div style="padding: 18px 18px 0;">
+      <img src="/images/projects/PIMFW.png" alt="PIM-FW hardware-software co-design project" style="width: 100%; height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #d1d5db; background: #fafafa; margin-bottom: 6px;">
+    </div>
+    <div style="padding: 18px;">
+      <div style="font-size: 1.35rem; font-weight: 700; line-height: 1.35; margin-bottom: 8px;">
+        PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM
+      </div>
+      <div style="font-size: 0.96rem; color: #6b7280; margin-bottom: 14px;">
+        May. 2026 - Accepted by GLSVLSI'26
+      </div>
+      <ul style="margin: 0;">
+        <li>Designed PIM-FW, a DRAM-based Processing-in-Memory framework for accelerating All-Pairs Shortest Paths using blocked Floyd-Warshall on HBM3.</li>
+        <li>Proposed a hybrid PIM/PNM architecture with in-bank Bank PEs for massively parallel min-plus updates and channel-level PEs for reduction and synchronization.</li>
+        <li>Achieved 18.7x speedup over an NVIDIA A100 baseline and up to 3200x lower modeled PIM-stack energy under the paper's stated assumptions.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; overflow: hidden;">
+    <div style="padding: 18px 18px 0;">
+      <img src="/images/projects/GenDRAM.png" alt="GenDRAM near-memory architecture project" style="width: 100%; height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #d1d5db; background: #fafafa; margin-bottom: 6px;">
+    </div>
+    <div style="padding: 18px;">
+      <div style="font-size: 1.35rem; font-weight: 700; line-height: 1.35; margin-bottom: 8px;">
+        GenDRAM: A Near-Memory Architecture on Monolithic 3D DRAM for Dynamic Programming Workloads
+      </div>
+      <div style="font-size: 0.96rem; color: #6b7280; margin-bottom: 14px;">
+        2025 - IEEE TCAD'26 submitted
+      </div>
+      <ul style="margin: 0;">
+        <li>Designed GenDRAM, a monolithic 3D DRAM-based near-memory architecture for accelerating dynamic programming workloads across graph analytics and genomics.</li>
+        <li>Proposed a unified heterogeneous PNM pipeline with Search PUs for memory-intensive seeding and Compute PUs for APSP and sequence alignment.</li>
+        <li>Achieved over 68x speedup on APSP and over 22x speedup on end-to-end genomics pipelines compared to GPU systems.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ## Background
 
@@ -64,7 +130,7 @@ I'm particularly interested in developing hardware accelerators that leverage em
   <img src="/images/logos/Tsmc.png" alt="TSMC logo" style="width: 72px; max-height: 72px; object-fit: contain; flex: 0 0 72px; margin-top: 4px;">
   <div>
     <strong>Taiwan Semiconductor Manufacturing Company (TSMC)</strong><br>
-    <span style="color: #6f777d;">Process Engineer · 2021-2024 · Hsinchu, Taiwan</span>
+    <span style="color: #6f777d;">Process Engineer - 2021-2024 - Hsinchu, Taiwan</span>
 
     <div style="margin-top: 0.9rem;">
       <strong>N2 R&D Process Engineer</strong><br>
@@ -91,36 +157,63 @@ I'm particularly interested in developing hardware accelerators that leverage em
   </div>
 </div>
 
-
-## Presentation
+<h2 id="presentations">Presentation</h2>
 
 <div style="display: flex; gap: 18px; overflow-x: auto; padding: 8px 4px 16px; scroll-snap-type: x proximity;">
   <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
     <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">Software-Hardware Co-Design for All-pairs Shortest Paths using DRAM-based Compute</div>
-    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">J. Yang Scholar Oral Presentation · Sep. 2025</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">J. Yang Scholar Oral Presentation - Sep. 2025</div>
     <img src="/images/photos/j-yang-scholar-talk-2025.jpg" alt="J. Yang Scholar presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
   </figure>
   <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
     <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">GenDRAM: HW-SW Co-Design of Graphs in DRAM</div>
-    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">PRISM Annual Review Poster Presentation · Nov. 2025</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">PRISM Annual Review Poster Presentation - Nov. 2025</div>
     <img src="/images/photos/prism-poster-2025.jpg" alt="PRISM Annual Review poster presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
   </figure>
   <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
     <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">Accelerating Data Analytics with Intel IAA & AMX</div>
-    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">PRISM Poster Session · Nov. 2025</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">PRISM Poster Session - Dec. 2025</div>
     <img src="/images/photos/prism-iaa-amx-2025.jpg" alt="PRISM poster session" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
   </figure>
   <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
-    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">GenDRAM: HW-SW Co-Design of Graphs and Alignment in DRAM</div>
-    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">CIMM Poster Presentation · Mar. 2026</div>
+    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">CIMM Conference Talk</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">CIMM Poster Presentation - Mar. 2026</div>
     <img src="/images/photos/cimm-poster-2026.jpg" alt="CIMM conference poster presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
   </figure>
   <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
-    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">CIMM Conference Talk</div>
-    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">Conference Presentation · 2025</div>
+    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">Accelerator for Graphs and Alignment in 3D DRAM</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">CIMM Conference Presentation - Mar. 2026</div>
     <img src="/images/photos/conference-talk-2025.jpg" alt="Conference presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
   </figure>
 </div>
+
+<h2 id="publications">Publications</h2>
+
+{% include base_path %}
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h3>{{ category[1].title }}</h3><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
 
 ## Collaborations
 
