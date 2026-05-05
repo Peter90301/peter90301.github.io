@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+## What's New
+
+- **2024**: Started my Ph.D. in Computer Architecture at UC San Diego, advised by [Professor Tajana S. Rosing](https://cseweb.ucsd.edu/~trosing/) in [SeeLab](https://seelab.ucsd.edu/).
+- **Current**: Exploring hardware acceleration for computational biology, machine learning systems, and processing-in-memory architectures.
+- **Recent**: PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM accepted by GLSVLSI'26.
+
 ## About Me
 
 I am a Ph.D. student in Computer Architecture at the University of California, San Diego (UCSD), advised by [Professor Tajana S. Rosing](https://seelab.ucsd.edu/). My research focuses on hardware acceleration for computational biology and machine learning systems, with particular emphasis on processing-in-memory architectures and emerging memory technologies.
