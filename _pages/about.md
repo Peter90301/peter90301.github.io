@@ -36,42 +36,102 @@ I'm particularly interested in developing hardware accelerators that leverage em
 
 I bring a diverse and interdisciplinary background spanning mechanical engineering, health sciences, and computer science:
 
-- **Ph.D. in Computer Architecture** (UCSD, 2024-2029) - Transitioning from semiconductor process engineering to computer architecture and hardware acceleration
-- **M.S. in Power Mechanical Engineering** (National Tsing Hua University, 2019-2021, GPA: 3.9/4.0) - Specialized in microfluidics and bio-MEMS with a focus on biomedical device design
-- **B.S. in Health-Related Field** (Taipei Medical University, 2015-2019) - Foundation in medical sciences and healthcare informatics
+<div style="display: flex; flex-direction: column; gap: 18px; margin: 1rem 0 1.5rem;">
+  <div style="display: flex; gap: 16px; align-items: flex-start;">
+    <img src="/images/logos/UCSD.png" alt="UC San Diego logo" style="width: 72px; max-height: 72px; object-fit: contain; flex: 0 0 72px; margin-top: 4px;">
+    <div>
+      <strong>University of California, San Diego</strong> <span style="color: #6f777d;">2024-2029</span><br>
+      Ph.D. in Computer Architecture<br>
+      <span style="color: #5f666b;">Transitioning from semiconductor process engineering to computer architecture and hardware acceleration.</span>
+    </div>
+  </div>
+  <div style="display: flex; gap: 16px; align-items: flex-start;">
+    <img src="/images/logos/nthu-logo.svg" alt="National Tsing Hua University logo" style="width: 72px; max-height: 72px; object-fit: contain; flex: 0 0 72px; margin-top: 4px;">
+    <div>
+      <strong>National Tsing Hua University</strong> <span style="color: #6f777d;">2019-2021</span><br>
+      M.S. in Power Mechanical Engineering, GPA: 3.9/4.0<br>
+      <span style="color: #5f666b;">Specialized in microfluidics and bio-MEMS with a focus on biomedical device design.</span>
+    </div>
+  </div>
+  <div style="display: flex; gap: 16px; align-items: flex-start;">
+    <img src="/images/logos/tmu-logo.svg" alt="Taipei Medical University logo" style="width: 72px; max-height: 72px; object-fit: contain; flex: 0 0 72px; margin-top: 4px;">
+    <div>
+      <strong>Taipei Medical University</strong> <span style="color: #6f777d;">2015-2019</span><br>
+      B.S. in Health-Related Field<br>
+      <span style="color: #5f666b;">Foundation in medical sciences and healthcare informatics.</span>
+    </div>
+  </div>
+</div>
 
 ### Work Experience
-Before pursuing my Ph.D., I worked as a Process Engineer at Taiwan Semiconductor Manufacturing Company (TSMC) from 2021-2024, where I contributed to advanced node process development (N3/N2), achieving significant improvements in yield enhancement and cost reduction.
+
+<div style="display: flex; gap: 16px; align-items: flex-start; margin: 1rem 0 1.5rem;">
+  <img src="/images/logos/Tsmc.png" alt="TSMC logo" style="width: 72px; max-height: 72px; object-fit: contain; flex: 0 0 72px; margin-top: 4px;">
+  <div>
+    <strong>Taiwan Semiconductor Manufacturing Company (TSMC)</strong><br>
+    <span style="color: #6f777d;">Process Engineer · 2021-2024 · Hsinchu, Taiwan</span>
+
+    <div style="margin-top: 0.9rem;">
+      <strong>N2 R&D Process Engineer</strong><br>
+      <span style="color: #6f777d;">Jan. 2024 - Jun. 2024</span>
+      <ul style="margin-top: 0.4rem;">
+        <li>N2 RD BEOL process engineer.</li>
+        <li>Optimized N2 front-end-of-line (FEOL) and middle-of-line (MEOL) process flow.</li>
+      </ul>
+    </div>
+
+    <div style="margin-top: 0.9rem;">
+      <strong>N3 & N2 Process Engineer</strong><br>
+      <span style="color: #6f777d;">Nov. 2021 - Mar. 2024</span>
+      <ul style="margin-top: 0.4rem;">
+        <li>RD process engineer for N3/N2 operation.</li>
+        <li>Spearheaded the N3/N3B MEOL CMP team, achieving a 10% yield enhancement.</li>
+        <li>Reduced departmental costs by $3 million/month.</li>
+        <li>Minimized CMP defects by 90%.</li>
+        <li>Orchestrated CMP self-quality control measures.</li>
+        <li>Designed and conducted experiments to validate CMP consumables changes.</li>
+        <li>Developed experiments to extend the lifespan of CMP consumables.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 This unique trajectory—from healthcare through mechanical engineering and semiconductor process development to computer architecture—has deeply informed my research perspective. I understand both the biological and engineering challenges in building efficient systems for data-intensive applications, positioning me uniquely to bridge these domains.
+
+
+
+## Presentation
+
+<div style="display: flex; gap: 18px; overflow-x: auto; padding: 8px 4px 16px; scroll-snap-type: x proximity;">
+  <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
+    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">Software-Hardware Co-Design for All-pairs Shortest Paths using DRAM-based Compute</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">J. Yang Scholar Oral Presentation · Sep. 2025</div>
+    <img src="/images/photos/j-yang-scholar-talk-2025.jpg" alt="J. Yang Scholar presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
+  </figure>
+  <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
+    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">GenDRAM: HW-SW Co-Design of Graphs in DRAM</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">PRISM Annual Review Poster Presentation · Nov. 2025</div>
+    <img src="/images/photos/prism-poster-2025.jpg" alt="PRISM Annual Review poster presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
+  </figure>
+  <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
+    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">Accelerating Data Analytics with Intel IAA & AMX</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">PRISM Poster Session · Nov. 2025</div>
+    <img src="/images/photos/prism-iaa-amx-2025.jpg" alt="PRISM poster session" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
+  </figure>
+  <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
+    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">GenDRAM: HW-SW Co-Design of Graphs and Alignment in DRAM</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">CIMM Poster Presentation · Mar. 2026</div>
+    <img src="/images/photos/cimm-poster-2026.jpg" alt="CIMM conference poster presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
+  </figure>
+  <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #ffffff;">
+    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">Invited Conference Talk</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">Conference Presentation · 2025</div>
+    <img src="/images/photos/conference-talk-2025.jpg" alt="Conference presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
+  </figure>
+</div>
 
 ## Collaborations
 
 I actively collaborate with:
 - [Professor Rob Knight's group at UCSD](https://knightlab.ucsd.edu/) - Bioinformatics and microbiome research
 - [Niema Moshiri](https://niema.net/) - Computational biology and phylogenetics
-
-## Photos
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px;">
-  <figure style="margin: 0;">
-    <img src="/images/photos/j-yang-scholar-talk-2025.jpg" alt="J. Yang Scholar presentation" style="width: 100%; border-radius: 8px;">
-    <figcaption>J. Yang Scholar presentation.</figcaption>
-  </figure>
-  <figure style="margin: 0;">
-    <img src="/images/photos/prism-poster-2025.jpg" alt="PRISM Annual Review poster presentation" style="width: 100%; border-radius: 8px;">
-    <figcaption>PRISM Annual Review poster presentation.</figcaption>
-  </figure>
-  <figure style="margin: 0;">
-    <img src="/images/photos/prism-iaa-amx-2025.jpg" alt="PRISM poster session" style="width: 100%; border-radius: 8px;">
-    <figcaption>PRISM poster session.</figcaption>
-  </figure>
-  <figure style="margin: 0;">
-    <img src="/images/photos/cimm-poster-2026.jpg" alt="CIMM conference poster presentation" style="width: 100%; border-radius: 8px;">
-    <figcaption>CIMM conference poster presentation.</figcaption>
-  </figure>
-  <figure style="margin: 0;">
-    <img src="/images/photos/conference-talk-2025.jpg" alt="Conference presentation" style="width: 100%; border-radius: 8px;">
-    <figcaption>Conference presentation.</figcaption>
-  </figure>
-</div>
