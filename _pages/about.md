@@ -18,7 +18,11 @@ redirect_from:
 
 <h2 id="about-me">About Me</h2>
 
-I am a Ph.D. student in Computer Architecture at the University of California, San Diego (UCSD), advised by [Professor Tajana S. Rosing](https://cseweb.ucsd.edu/~trosing/) in [SeeLab](https://seelab.ucsd.edu/). My research focuses on hardware acceleration for computational biology and machine learning systems, with particular emphasis on processing-in-memory architectures and emerging memory technologies.
+Tsung-Han Lu is a Ph.D. researcher in Electrical and Computer Engineering at the University of California, San Diego, advised by [Professor Tajana S. Rosing](https://cseweb.ucsd.edu/~trosing/) in [SeeLab](https://seelab.ucsd.edu/). His research focuses on hardware-software co-design, Processing-in-Memory and Near-Memory Computing, and memory-centric acceleration for AI and bioinformatics workloads. He develops efficient computing architectures that reduce data movement and improve the performance and energy efficiency of algorithms such as Transformer models, genomic alignment, multi-omics clustering, and database search.
+
+Before joining UC San Diego, Tsung-Han worked as an R&D Process Engineer at Taiwan Semiconductor Manufacturing Company (TSMC), where he contributed to advanced semiconductor manufacturing for N3/N3B and N2 technology nodes. He also received his M.S. degree from National Tsing Hua University, where his research focused on microfluidic systems and biomedical diagnostics. During his master’s research, he developed an integrated microfluidic platform for cholangiocarcinoma diagnosis from clinical bile juice samples using specific affinity probes, contributing to publications in Sensors and Actuators B: Chemical and IEEE-NEMS.
+
+His experience spans VLSI design, 3D-stacked DRAM-based acceleration, digital circuit implementation, machine learning, semiconductor process optimization, and biomedical sensing. By combining expertise in hardware architecture, memory systems, and computational biology, his work aims to build next-generation efficient computing platforms for data-intensive scientific and AI applications.
 
 <p>
   <a class="btn btn--primary" href="/files/Tsung-Han_Lu_CV.pdf" download>Download CV</a>
