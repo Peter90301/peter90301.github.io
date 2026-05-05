@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-## What's New
-
-- **2024**: Started my Ph.D. in Computer Architecture at UC San Diego, advised by [Professor Tajana S. Rosing](https://cseweb.ucsd.edu/~trosing/) in [SeeLab](https://seelab.ucsd.edu/).
+## What's New 🔥
+- **2025/08**: Passed the preliminary exam.
+- **2025/09**: Gave a speech as a J. Yang Scholar.
+- **2025/12**: PRISM conference presentation.
+- **2026/03**: CIMM conference presentation.
 - **Current**: Exploring hardware acceleration for computational biology, machine learning systems, and processing-in-memory architectures.
 - **Recent**: PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM accepted by GLSVLSI'26.
 
 ## About Me
 
-I am a Ph.D. student in Computer Architecture at the University of California, San Diego (UCSD), advised by [Professor Tajana S. Rosing](https://seelab.ucsd.edu/). My research focuses on hardware acceleration for computational biology and machine learning systems, with particular emphasis on processing-in-memory architectures and emerging memory technologies.
+I am a Ph.D. student in Computer Architecture at the University of California, San Diego (UCSD),advised by [Professor Tajana S. Rosing](https://cseweb.ucsd.edu/~trosing/) in [SeeLab](https://seelab.ucsd.edu/). My research focuses on hardware acceleration for computational biology and machine learning systems, with particular emphasis on processing-in-memory architectures and emerging memory technologies.
 
 ## Research Interests
 
@@ -48,3 +50,28 @@ This unique trajectory—from healthcare through mechanical engineering and semi
 I actively collaborate with:
 - [Professor Rob Knight's group at UCSD](https://knightlab.ucsd.edu/) - Bioinformatics and microbiome research
 - [Niema Moshiri](https://niema.net/) - Computational biology and phylogenetics
+
+## Photos
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px;">
+  <figure style="margin: 0;">
+    <img src="/images/photos/j-yang-scholar-talk-2025.jpg" alt="J. Yang Scholar presentation" style="width: 100%; border-radius: 8px;">
+    <figcaption>J. Yang Scholar presentation.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/photos/prism-poster-2025.jpg" alt="PRISM Annual Review poster presentation" style="width: 100%; border-radius: 8px;">
+    <figcaption>PRISM Annual Review poster presentation.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/photos/prism-iaa-amx-2025.jpg" alt="PRISM poster session" style="width: 100%; border-radius: 8px;">
+    <figcaption>PRISM poster session.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/photos/cimm-poster-2026.jpg" alt="CIMM conference poster presentation" style="width: 100%; border-radius: 8px;">
+    <figcaption>CIMM conference poster presentation.</figcaption>
+  </figure>
+  <figure style="margin: 0;">
+    <img src="/images/photos/conference-talk-2025.jpg" alt="Conference presentation" style="width: 100%; border-radius: 8px;">
+    <figcaption>Conference presentation.</figcaption>
+  </figure>
+</div>
