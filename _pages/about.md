@@ -43,7 +43,6 @@ I'm particularly interested in developing hardware accelerators that leverage em
   <div style="border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; overflow: hidden;">
     <div style="padding: 18px 18px 0;">
       <img src="/images/projects/digital-vlsi-adder-rtl-to-gdsii.png" alt="Digital VLSI adder RTL-to-GDSII layout" style="width: 100%; height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #d1d5db; background: #fafafa; margin-bottom: 14px;">
-      <img src="/images/projects/Arc_for_DIC.png" alt="Architecture for DIC project" style="width: 100%; height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #d1d5db; background: #fafafa; margin-bottom: 6px;">
     </div>
     <div style="padding: 18px;">
       <div style="font-size: 1.35rem; font-weight: 700; line-height: 1.35; margin-bottom: 8px;">
