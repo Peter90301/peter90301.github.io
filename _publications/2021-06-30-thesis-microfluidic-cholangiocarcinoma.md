@@ -6,7 +6,7 @@ permalink: /publication/2021-06-30-thesis-microfluidic-platform
 excerpt: 'Master thesis on developing an integrated microfluidic platform for cholangiocarcinoma diagnosis using multiple affinity-based reagents and biomarker detection.'
 date: 2021-06-30
 venue: 'National Tsing Hua University Electronic Theses and Dissertations System'
-paperurl: 'https://ndltd.lis.ntu.edu.tw/'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925400522013673'
 citation: 'Tsung-Han Lu. (2021). &quot;An Integrated Microfluidic Platform for Cholangiocarcinoma Diagnosis from Clinical Bile by Utilizing Multiple Affinity Reagents.&quot; Master&apos;s thesis, National Tsing Hua University.'
 ---
 

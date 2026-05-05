@@ -6,7 +6,7 @@ permalink: /publication/2021-11-01-tumor-cells-cholangiocarcinoma
 excerpt: 'Investigation of exfoliated tumor cells in bile as biomarkers for cholangiocarcinoma disease status assessment.'
 date: 2021-11-01
 venue: 'Sensors and Actuators B: Chemical'
-paperurl: 'https://doi.org/10.1016/j.snb.2021.130585'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925400521010947'
 citation: 'Tsung-Han Lu. et al. (2021). &quot;Exfoliated Tumor Cells in Bile as a Promising Indicator of Disease Status in Cholangiocarcinoma.&quot; <i>Sensors and Actuators B: Chemical</i>.'
 ---
 

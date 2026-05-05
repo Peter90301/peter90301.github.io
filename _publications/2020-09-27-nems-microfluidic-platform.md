@@ -6,7 +6,7 @@ permalink: /publication/2020-09-27-nems-microfluidic
 excerpt: 'Conference presentation at IEEE NEMS 2020 on microfluidic platform development for cholangiocarcinoma diagnosis using affinity-based biomarker detection.'
 date: 2020-09-27
 venue: 'Proceedings of 2020 IEEE 15th International Conference on Nano/Micro Engineered and Molecular System (NEMS)'
-paperurl: 'https://ieeexplore.ieee.org/'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925400522013673'
 citation: 'Tsung-Han Lu et al. (2020). &quot;An Integrated Microfluidic Platform for Cholangiocarcinoma Diagnosis from Clinical Bile Juice Samples by Utilizing Multiple Affinity Reagents.&quot; In <i>Proceedings of the 2020 IEEE 15th International Conference on Nano/Micro Engineered and Molecular System (NEMS)</i>.'
 ---
 

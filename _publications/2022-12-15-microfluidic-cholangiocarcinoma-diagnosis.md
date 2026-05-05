@@ -6,7 +6,7 @@ permalink: /publication/2022-12-15-microfluidic-cholangiocarcinoma
 excerpt: 'Development of an integrated microfluidic platform for rapid and accurate cholangiocarcinoma diagnosis using specific affinity probes.'
 date: 2022-12-15
 venue: 'Sensors and Actuators B: Chemical'
-paperurl: 'https://doi.org/10.1016/j.snb.2022.132850'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925400522013673'
 citation: 'Tsung-Han Lu et al. (2022). &quot;An Integrated Microfluidic System for Cholangiocarcinoma Diagnosis from Bile by Using Specific Affinity Probes.&quot; <i>Sensors and Actuators B: Chemical</i>.'
 ---
 
