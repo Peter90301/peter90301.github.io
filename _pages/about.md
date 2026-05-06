@@ -94,7 +94,7 @@ I'm particularly interested in developing hardware accelerators that leverage em
     <img src="/images/logos/UCSD.png" alt="UC San Diego logo" style="width: 72px; max-height: 72px; object-fit: contain; flex: 0 0 72px; margin-top: 4px;">
     <div>
       <strong>University of California, San Diego</strong> <span style="color: #6f777d;">2024-2029</span><br>
-      Ph.D. in Computer Architecture<br>
+      Ph.D. in Electrical and Computer Engineering (ECE)<br>
     </div>
   </div>
   <div style="display: flex; gap: 16px; align-items: flex-start;">
