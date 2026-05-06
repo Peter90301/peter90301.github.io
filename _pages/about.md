@@ -185,23 +185,20 @@ I'm particularly interested in developing hardware accelerators that leverage em
 {% endif %}
 
 {% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
+{% for category in site.publication_category %}
+{% assign posts_in_category = site.publications | where: "category", category[0] %}
+{% if posts_in_category.size > 0 %}
+<h3>{{ category[1].title }}</h3>
+<hr />
+{% for post in posts_in_category reversed %}
+{% include archive-single.html %}
+{% endfor %}
+{% endif %}
+{% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% for post in site.publications reversed %}
+{% include archive-single.html %}
+{% endfor %}
 {% endif %}
 
 <h2 id="collaborations">Collaborations</h2>
