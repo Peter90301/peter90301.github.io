@@ -219,5 +219,9 @@ I'm particularly interested in developing hardware accelerators that leverage em
 <h2 id="collaborations">Collaborations</h2>
 
 I actively collaborate with:
+- [Minderoo](https://www.minderoo.org/) - Accelerators for biological workloads
+- [Intel] - Intel IAA AMX acceleration
 - [Professor Rob Knight's group at UCSD](https://knightlab.ucsd.edu/) - Bioinformatics and microbiome research
 - [Niema Moshiri](https://niema.net/) - Computational biology and phylogenetics
+- [Professor Wout Bittremieux](https://www.bittremieux.be/) - Proteomic and metabolomic research
+- [Professor Pieter C. Dorrestein's group at UCSD](https://dorresteinlab.ucsd.edu/pieter) - Metabolomic research
