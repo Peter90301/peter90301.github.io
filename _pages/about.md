@@ -9,11 +9,11 @@ redirect_from:
 
 <h2 id="whats-new">What's New 🔥</h2>
 
-- **2026/06**: PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM accepted by GLSVLSI'26.
 - **2025/08**: Passed the preliminary exam.
 - **2025/09**: Gave a speech as a J. Yang Scholar.
 - **2025/12**: PRISM conference presentation.
 - **2026/03**: CIMM conference presentation.
+- **2026/06**: [GLSVLSI'26](https://www.glsvlsi.org/) oral presentation.
 - **Current**: Exploring hardware acceleration for computational biology, machine learning systems, and processing-in-memory architectures.
 
 <h2 id="about-me">About Me</h2>
