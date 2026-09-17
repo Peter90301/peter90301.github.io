@@ -189,6 +189,11 @@ I'm particularly interested in developing hardware accelerators that leverage em
     <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;">CIMM Conference Presentation - Mar. 2026</div>
     <img src="/images/photos/conference-talk-2025.jpg" alt="Conference presentation" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
   </figure>
+  <figure style="margin: 0; min-width: 340px; max-width: 340px; scroll-snap-align: start; border: 1px solid #e5e7eb; border-radius: 8px; padding: 16px; background: #ffffff;">
+    <div style="font-size: 1.05rem; font-weight: 700; line-height: 1.35; margin-bottom: 6px;">PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM</div>
+    <div style="font-size: 0.92rem; color: #6b7280; margin-bottom: 14px;"><a href="https://www.glsvlsi.org/">GLSVLSI'26</a> Oral Presentation - Jun. 2026</div>
+    <img src="/images/photos/GLSVLSI.jpg" alt="PIM-FW oral presentation at GLSVLSI 2026" loading="lazy" style="width: 100%; height: 220px; object-fit: cover; border-radius: 8px;">
+  </figure>
 </div>
 
 <h2 id="publications">Publications</h2>
