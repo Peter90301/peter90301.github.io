@@ -14,6 +14,7 @@ redirect_from:
 - **2025/12**: PRISM conference presentation.
 - **2026/03**: CIMM conference presentation.
 - **2026/06**: [GLSVLSI'26](https://www.glsvlsi.org/) oral presentation.
+- **2026/09**: GenMLIR accepted by ASP-DAC 2027 for oral presentation.
 - **Current**: Exploring hardware acceleration for computational biology, machine learning systems, and processing-in-memory architectures.
 
 <h2 id="about-me">About Me</h2>
