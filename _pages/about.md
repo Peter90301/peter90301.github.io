@@ -9,12 +9,12 @@ redirect_from:
 
 <h2 id="whats-new">What's New 🔥</h2>
 
+- **2026/06**: PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM accepted by GLSVLSI'26.
 - **2025/08**: Passed the preliminary exam.
 - **2025/09**: Gave a speech as a J. Yang Scholar.
 - **2025/12**: PRISM conference presentation.
 - **2026/03**: CIMM conference presentation.
 - **Current**: Exploring hardware acceleration for computational biology, machine learning systems, and processing-in-memory architectures.
-- **Recent**: PIM-FW: Hardware-Software Co-Design of All-pairs Shortest Paths in DRAM accepted by GLSVLSI'26.
 
 <h2 id="about-me">About Me</h2>
 
@@ -79,6 +79,20 @@ I'm particularly interested in developing hardware accelerators that leverage em
     <div style="padding: 18px;">
       <div style="font-size: 1.35rem; font-weight: 700; line-height: 1.35; margin-bottom: 8px;">
         GenDRAM: A Near-Memory Architecture on Monolithic 3D DRAM for Dynamic Programming Workloads
+      </div>
+      <div style="font-size: 0.96rem; color: #6b7280; margin-bottom: 14px;">
+        2025 - ACM TECS'26 submitted
+      </div>
+    </div>
+  </div>
+
+  <div style="border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; overflow: hidden;">
+    <div style="padding: 18px 18px 0;">
+      <img src="/images/projects/MultiRAM.png" alt="MultiRAM hybrid architecture project" style="width: 100%; height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #d1d5db; background: #fafafa; margin-bottom: 6px;">
+    </div>
+    <div style="padding: 18px;">
+      <div style="font-size: 1.35rem; font-weight: 700; line-height: 1.35; margin-bottom: 8px;">
+        MultiRAM: A Hybrid Architecture on Chiplet memory for Multi-Omic Workloads
       </div>
       <div style="font-size: 0.96rem; color: #6b7280; margin-bottom: 14px;">
         2025 - IEEE TCAD'26 submitted
