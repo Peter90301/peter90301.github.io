@@ -29,6 +29,7 @@ author:
   bio              : "Ph.D. Student in Computer Architecture at UCSD"
   location         : "San Diego, CA"
   employer         : "University of California, San Diego"
+  employer_url     : "https://www.ucsd.edu/"
   uri              : # URL
   email            : "tlu042@ucsd.edu" 
 
